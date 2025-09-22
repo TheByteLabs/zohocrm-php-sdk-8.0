@@ -37,7 +37,7 @@ class Utility
 	{
 		if($value == null)
 		{
-			throw new SDKException($errorCode, $errorMessage);
+			//throw new SDKException($errorCode, $errorMessage);
 		}
     }
 
